@@ -20,6 +20,8 @@ Modify CSV_URL, URL_PREFIX and IMAGE_EXT in `run.py` and then run:
 python run.py
 ```
 
+Results will be stored in `results/`.
+
 Note that this is not a general purpose script.
 
 Once downloaded with this script, historical aerial stereo-images can be processed with [OpenDroneMap](https://opendronemap.org) to create georeferenced, orthorectified images such as the one shown below:
