@@ -26,6 +26,10 @@ Note that this is not a general purpose script.
 
 Once downloaded with this script, historical aerial stereo-images can be processed with [OpenDroneMap](https://opendronemap.org) to create georeferenced, orthorectified images such as the one shown below:
 
-![image](https://user-images.githubusercontent.com/1951843/57887842-8e0b1400-77fe-11e9-8c42-c031aa794c70.png)
+![anim](https://user-images.githubusercontent.com/1951843/57937420-e8a27f80-7893-11e9-8707-2915d7223e46.gif)
+
+![image](https://user-images.githubusercontent.com/1951843/57937480-08d23e80-7894-11e9-8864-e864d8fbb5c1.png)
+
+You can download the resulting GeoTIFF from https://drive.google.com/open?id=18UhkAR5jggOtgNvBzadEz-P-bymu14_m
 
 Credits to University of Minnesota for the aerial images archive.
